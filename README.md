@@ -38,7 +38,7 @@ python anon_checker.py
 ## **Screenshots:**
 
 ### **Program in Action**
-![Program in Action]([https://via.placeholder.com/600x300.png?text=Program+Running+Example](https://imgur.com/ecqgs6Y))
+![Program in Action](https://i.imgur.com/ecqgs6Y.png)
 
 ### **Result Output**
 
