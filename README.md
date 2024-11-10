@@ -35,7 +35,7 @@ A Python-based script for checking and analyzing Telegram number registrations. 
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/anon-checker.git
+   git clone https://github.com/whatzwastaken/anon-checker.git
    cd anon-checker
 ### 2. Install the required libraries:
 
